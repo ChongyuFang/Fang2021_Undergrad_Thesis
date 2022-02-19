@@ -1,10 +1,10 @@
-# Prepared by Chongyu Fang, November 2020
+# Prepared by Chongyu Fang, Jan 2021
 # An investigation of output, price and monetary policy in China
 # We use structural VAR model by Sims (1980)
 # local projection methods by Jordà (2005)
 # and threshold regression by Hansen (2000)
 
-setwd("~/Desktop/Local Projection Methods/data")
+setwd("~/Desktop/Fang2021_Undergrad_Thesis/data")
 
 
 ##### Data #####
