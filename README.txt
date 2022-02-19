@@ -1,6 +1,6 @@
 Chongyu Fang's Undergraduate Thesis
 
-Asymmetric Effects of Monetary Policy Shocks: Evidenve from China
+Asymmetric Effects of Monetary Policy Shocks: Evidence from China
 
 You can find:
     the time series data I used in the data directory,
