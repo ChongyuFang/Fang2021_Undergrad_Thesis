@@ -1,4 +1,4 @@
-Chongyu Fang's Undergraduate Thesis
+Chongyu Fang's Undergraduate Thesis at Chinese University of Hong Kong, Shenzhen
 
 Asymmetric Effects of Monetary Policy Shocks: Evidence from China
 
